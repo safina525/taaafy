@@ -1,8 +1,8 @@
 document.querySelector('#app').innerHTML = `
   <section style="font-family: Arial; padding: 2rem;">
-    <h1 style="color: #1976d2;">مرحبا بك في منصة <strong>تعافي</strong></h1>
+    <h1 style="color: #1976d2;">مرحبًا بك في منصة <strong>تعافي</strong></h1>
     <p>منصة متخصصة في التوعية والعلاج النفسي ودعم الإقلاع عن الإدمان.</p>
-    
+
     <h2>خدماتنا:</h2>
     <ul>
       <li>مقالات توعية عن المخدرات</li>
